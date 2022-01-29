@@ -8,3 +8,5 @@ If server is running, then the client will ask the user to select one of the opt
 * open mode
 * secure mode
 * quit applicationIn the open mode, the word is sent to the server in clear text. On the other hand, in secure mode, the word is encrypted using a shared encryption key.
+
+
